@@ -18,3 +18,5 @@ set tabstop=4
 set ai
 set si
 set wrap
+
+set textwidth=80
